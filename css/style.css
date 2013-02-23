@@ -1,3 +1,7 @@
-h1 {
-    border-bottom: 1px solid #000;
+h1,h2,h3,h4,h5 {
+    font-family: 'Alegreya SC', serif !important;
+}
+
+#logo {
+    margin: 20px auto 20px auto;
 }
